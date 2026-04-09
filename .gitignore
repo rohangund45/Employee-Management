@@ -4,7 +4,7 @@ dist
 build
 
 # Ignore folders you don't want
-claude/
+.claude/
 scripts/
 
 # Logs
