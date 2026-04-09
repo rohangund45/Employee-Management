@@ -1,0 +1,16 @@
+node_modules
+.env
+dist
+build
+
+# Ignore folders you don't want
+claude/
+scripts/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
